@@ -1,0 +1,5 @@
+2026-04-30 10:00:01 INFO Service started
+2026-04-30 10:01:15 ERROR Database connection failed
+2026-04-30 10:02:20 WARN High memory usage
+2026-04-30 10:03:10 ERROR Timeout while calling API
+2026-04-30 10:04:00 INFO Health check passed
